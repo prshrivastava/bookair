@@ -1,3 +1,7 @@
 /target
 /.classpath
 /.project
+.idea
+bookair.iml
+bookair.ipr
+bookair.iws
